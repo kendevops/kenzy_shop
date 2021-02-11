@@ -1,1 +1,154 @@
-[{"id":1,"name":"Roku Streaming Stick+ ","content":"Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Voice Remote with TV Controls\n","meta_description":"Roku Streaming Stick that helps you in live streaming on your Television.","meta_title":"Roku Streaming Stick - Stream Live on TV","price":47.54,"slug":"roku-streaming-stick","published_at":"2021-02-09T15:55:16.116Z","created_at":"2021-02-09T15:55:05.970Z","updated_at":"2021-02-09T15:55:16.146Z","image":{"id":1,"name":"Roku.jpg","alternativeText":"","caption":"","width":1500,"height":1293,"formats":{"thumbnail":{"name":"thumbnail_Roku.jpg","hash":"thumbnail_Roku_3aff865611","ext":".jpg","mime":"image/jpeg","width":181,"height":156,"size":7.14,"path":null,"url":"/uploads/thumbnail_Roku_3aff865611.jpg"},"large":{"name":"large_Roku.jpg","hash":"large_Roku_3aff865611","ext":".jpg","mime":"image/jpeg","width":1000,"height":862,"size":99,"path":null,"url":"/uploads/large_Roku_3aff865611.jpg"},"medium":{"name":"medium_Roku.jpg","hash":"medium_Roku_3aff865611","ext":".jpg","mime":"image/jpeg","width":750,"height":647,"size":66.06,"path":null,"url":"/uploads/medium_Roku_3aff865611.jpg"},"small":{"name":"small_Roku.jpg","hash":"small_Roku_3aff865611","ext":".jpg","mime":"image/jpeg","width":500,"height":431,"size":36.43,"path":null,"url":"/uploads/small_Roku_3aff865611.jpg"}},"hash":"Roku_3aff865611","ext":".jpg","mime":"image/jpeg","size":135.76,"url":"/uploads/Roku_3aff865611.jpg","previewUrl":null,"provider":"local","provider_metadata":null,"created_at":"2021-02-09T15:53:21.658Z","updated_at":"2021-02-09T15:53:21.671Z"}},{"id":2,"name":"Acer Aspire 5 Slim Laptop","content":"Acer Aspire 5 Slim Laptop, 15.6 inches Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver","meta_description":"15.6 inches Full HD Acer Laptop","meta_title":"Acer Laptop - 128GB","price":364.99,"slug":"acer-aspire-5-slim-laptop","published_at":"2021-02-09T15:57:52.996Z","created_at":"2021-02-09T15:57:50.095Z","updated_at":"2021-02-09T15:57:53.019Z","image":{"id":2,"name":"https://images-na.ssl-images-amazon.com/images/I/71vvXGmdKWL._AC_SL1500_.jpg","alternativeText":"","caption":"","width":1500,"height":946,"formats":{"thumbnail":{"name":"thumbnail_https://images-na.ssl-images-amazon.com/images/I/71vvXGmdKWL._AC_SL1500_.jpg","hash":"thumbnail_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4","ext":".jpg","mime":"image/jpeg","width":245,"height":155,"size":8.74,"path":null,"url":"/uploads/thumbnail_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4.jpg"},"large":{"name":"large_https://images-na.ssl-images-amazon.com/images/I/71vvXGmdKWL._AC_SL1500_.jpg","hash":"large_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4","ext":".jpg","mime":"image/jpeg","width":1000,"height":631,"size":99.35,"path":null,"url":"/uploads/large_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4.jpg"},"medium":{"name":"medium_https://images-na.ssl-images-amazon.com/images/I/71vvXGmdKWL._AC_SL1500_.jpg","hash":"medium_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4","ext":".jpg","mime":"image/jpeg","width":750,"height":473,"size":60.58,"path":null,"url":"/uploads/medium_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4.jpg"},"small":{"name":"small_https://images-na.ssl-images-amazon.com/images/I/71vvXGmdKWL._AC_SL1500_.jpg","hash":"small_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4","ext":".jpg","mime":"image/jpeg","width":500,"height":315,"size":29.55,"path":null,"url":"/uploads/small_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4.jpg"}},"hash":"71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4","ext":".jpg","mime":"image/jpeg","size":170.17,"url":"/uploads/71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4.jpg","previewUrl":null,"provider":"local","provider_metadata":null,"created_at":"2021-02-09T15:56:22.474Z","updated_at":"2021-02-09T15:56:22.487Z"}}]
+[
+  {
+    "id": 1,
+    "name": "Roku Streaming Stick+ ",
+    "content": "Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Voice Remote with TV Controls\n",
+    "meta_description": "Roku Streaming Stick that helps you in live streaming on your Television.",
+    "meta_title": "Roku Streaming Stick - Stream Live on TV",
+    "price": 47.54,
+    "slug": "roku-streaming-stick",
+    "published_at": "2021-02-09T15:55:16.116Z",
+    "created_at": "2021-02-09T15:55:05.970Z",
+    "updated_at": "2021-02-09T15:55:16.146Z",
+    "image": {
+      "id": 1,
+      "name": "Roku.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1500,
+      "height": 1293,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_Roku.jpg",
+          "hash": "thumbnail_Roku_3aff865611",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 181,
+          "height": 156,
+          "size": 7.14,
+          "path": null,
+          "url": "/uploads/thumbnail_Roku_3aff865611.jpg"
+        },
+        "large": {
+          "name": "large_Roku.jpg",
+          "hash": "large_Roku_3aff865611",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 862,
+          "size": 99,
+          "path": null,
+          "url": "/uploads/large_Roku_3aff865611.jpg"
+        },
+        "medium": {
+          "name": "medium_Roku.jpg",
+          "hash": "medium_Roku_3aff865611",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 647,
+          "size": 66.06,
+          "path": null,
+          "url": "/uploads/medium_Roku_3aff865611.jpg"
+        },
+        "small": {
+          "name": "small_Roku.jpg",
+          "hash": "small_Roku_3aff865611",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 431,
+          "size": 36.43,
+          "path": null,
+          "url": "/uploads/small_Roku_3aff865611.jpg"
+        }
+      },
+      "hash": "Roku_3aff865611",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 135.76,
+      "url": "/uploads/Roku_3aff865611.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-02-09T15:53:21.658Z",
+      "updated_at": "2021-02-09T15:53:21.671Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Acer Aspire 5 Slim Laptop",
+    "content": "Acer Aspire 5 Slim Laptop, 15.6 inches Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L, Silver",
+    "meta_description": "15.6 inches Full HD Acer Laptop",
+    "meta_title": "Acer Laptop - 128GB",
+    "price": 364.99,
+    "slug": "acer-aspire-5-slim-laptop",
+    "published_at": "2021-02-09T15:57:52.996Z",
+    "created_at": "2021-02-09T15:57:50.095Z",
+    "updated_at": "2021-02-09T15:57:53.019Z",
+    "image": {
+      "id": 2,
+      "name": "https://images-na.ssl-images-amazon.com/images/I/71vvXGmdKWL._AC_SL1500_.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 1500,
+      "height": 946,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_https://images-na.ssl-images-amazon.com/images/I/71vvXGmdKWL._AC_SL1500_.jpg",
+          "hash": "thumbnail_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 245,
+          "height": 155,
+          "size": 8.74,
+          "path": null,
+          "url": "/uploads/thumbnail_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4.jpg"
+        },
+        "large": {
+          "name": "large_https://images-na.ssl-images-amazon.com/images/I/71vvXGmdKWL._AC_SL1500_.jpg",
+          "hash": "large_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 631,
+          "size": 99.35,
+          "path": null,
+          "url": "/uploads/large_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4.jpg"
+        },
+        "medium": {
+          "name": "medium_https://images-na.ssl-images-amazon.com/images/I/71vvXGmdKWL._AC_SL1500_.jpg",
+          "hash": "medium_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 750,
+          "height": 473,
+          "size": 60.58,
+          "path": null,
+          "url": "/uploads/medium_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4.jpg"
+        },
+        "small": {
+          "name": "small_https://images-na.ssl-images-amazon.com/images/I/71vvXGmdKWL._AC_SL1500_.jpg",
+          "hash": "small_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 500,
+          "height": 315,
+          "size": 29.55,
+          "path": null,
+          "url": "/uploads/small_71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4.jpg"
+        }
+      },
+      "hash": "71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 170.17,
+      "url": "/uploads/71vv_X_Gmd_KWL_AC_SL_1500_98e19bb6c4.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-02-09T15:56:22.474Z",
+      "updated_at": "2021-02-09T15:56:22.487Z"
+    }
+  }
+]

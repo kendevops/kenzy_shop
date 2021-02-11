@@ -2,7 +2,8 @@ import Head from "next/head";
 import Link from "next/Link";
 import products from "../products.json";
 import styles from "../styles/Home.module.css";
-import { fromImageToUrl } from "../utils/urls";
+import { fromImageToUrl, API_URL } from "../utils/urls";
+import { twoDecimals } from "../utils/format";
 
 export default function Home() {
   return (
@@ -14,14 +15,14 @@ export default function Home() {
 
       {products.map((product) => (
         <div key={products.name} className={styles.product}>
-          <Link href={`product/${product.slug}`}>
+          <Link href={`products/${product.slug}`}>
             <a>
               <div className={styles.product__Row}>
                 <div className={styles.img}>
                   <img src={fromImageToUrl(product.image)} alt="image" />
                 </div>
                 <div className={styles.product__col}>
-                  {product.name} {product.price}
+                  {product.name} ${twoDecimals(product.price)}
                 </div>
               </div>
             </a>
@@ -30,4 +31,16 @@ export default function Home() {
       ))}
     </div>
   );
+}
+
+export async function getStaticProps() {
+  //Fetch the products
+  const product_res = await fetch(`${API_URL}/products/`);
+  const product = await product_res.json();
+  //Return the Products as props
+  return {
+    props: {
+      products,
+    },
+  };
 }
